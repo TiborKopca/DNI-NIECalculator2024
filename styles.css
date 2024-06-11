@@ -85,7 +85,7 @@ html {
     height: auto;
   }
   ul {
-    flex-basis: 60%;
+    flex-basis: 100%;
     list-style: none;
     height: 2rem;
     display:flex;
@@ -106,6 +106,7 @@ html {
       overflow-x: hidden ;
     }
     .main{
+      width: 95%;
       margin-top: 1rem;
     }
   }
